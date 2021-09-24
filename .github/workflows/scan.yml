@@ -28,8 +28,7 @@ jobs:
 
       - name: CRDA Scan
         id: scan
-        # uses: redhat-actions/crda@main
-        uses: tetchel/crda@fix-39
+        uses: redhat-actions/crda@main
         with:
           crda_key: ${{ secrets.CRDA_KEY }}
           fail_on: never
