@@ -1,6 +1,6 @@
 # Express-TS Template
 
-Docker and Kube-ready Express application in TypeScript with speedy development.
+Docker and Kube-ready Express application in TypeScript with speedy development. 
 
 ## Developing
 
@@ -10,7 +10,7 @@ Then, to set up fast reloading:
 
 `./dev.sh`
 
-Alternatively, run:
+Alternatively, run: 
 
 `npm run ts-watch` and `npm run dev`
 
