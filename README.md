@@ -19,4 +19,4 @@ in **separate** terminals.
 The project's TypeScript will be compiled incrementally, and static files will be copied into the dist/ folder on change. The app is restarted after any static file change or TypeScript compile.
 
 ## Building and Running in Docker
-See `npm run docker-run`.
+See `npm run docker-run`. 
